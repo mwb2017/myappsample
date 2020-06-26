@@ -4,5 +4,5 @@ def git_test(a,b):
 
 a = int(input("First Number: "))
 b = int(input("Second Number: "))
-print("The hypontenuse is: ", git_test(a,b))
+print("The hypontenuse: ", git_test(a,b))
 
